@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GOD_Console.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="歌" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+
+You're my sunshine, my only sunshine
+You make me happy when skies are grey
+You'll never know dear, how much i love you
+Please don't take my sunshine away
+
+</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
